@@ -1,0 +1,12 @@
+/* nav ol li {
+    overflow-y: auto;
+    border-top: 1px solid transparent;
+    box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.1);
+    display: block;
+    max-height: 340px;
+    overflow-x: visible;
+    list-style: none;
+    float: right;
+    padding: 5px;
+    background-image: url(/images/lovebrd.jpg);
+} */
