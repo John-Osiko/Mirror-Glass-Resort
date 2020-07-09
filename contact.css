@@ -1,0 +1,30 @@
+nav ol li {
+    overflow-y: auto;
+    border-top: 1px solid transparent;
+    box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.1);
+    display: block!important;
+    max-height: 340px;
+    overflow-x: visible;
+    list-style: none;
+    text-align: center;
+    float: right;
+    padding-right: 50px;
+    background-clip: border-box;
+}
+
+.rig>form>button {
+    font-size: large;
+    color: gray;
+    background-color: goldenrod;
+    border-radius: 20px;
+    margin-top: 20px;
+    cursor: pointer;
+}
+
+.rig>form>button :hover {
+    opacity: 0.5;
+}
+
+#contacts {
+    background-color: goldenrod;
+}
